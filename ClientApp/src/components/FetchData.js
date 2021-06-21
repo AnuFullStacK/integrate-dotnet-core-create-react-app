@@ -18,7 +18,7 @@ export class FetchData extends Component {
         <thead>
           <tr>
             <th>Date</th>
-            <th>Temp. (C)</th>
+            <th>Temp. (C) degree</th>
             <th>Temp. (F)</th>
             <th>Summary</th>
           </tr>
